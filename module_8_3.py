@@ -1,6 +1,3 @@
-from pyexpat.errors import messages
-
-
 class Car:
     def __init__(self, model, vin, numbers):
         self.model = model
